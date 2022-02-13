@@ -16,7 +16,7 @@ o arquivo que já deixei pronto no seu MySQL Workbench ou no phpMyAdmin:
 Para usar a funcionalidade de enviar as informações por e-mail é necessário 
 ativar a opção 'Acesso a app menos seguro' em sua conta google, para isso basta ir em:
 
-  -> Conta/Segurança/Acesso a app menos seguro  
+  	-> Conta/Segurança/Acesso a app menos seguro  
 
  E marcar a opção como ativado (Permitir aplicativos menos seguros: ATIVADA)
 
@@ -24,7 +24,7 @@ ativar a opção 'Acesso a app menos seguro' em sua conta google, para isso bast
 
 	  Linha 39| $mail->Username = "seu.email@gmail.com";
 	  Linha 40| $mail->Password = "SuaSenha";
-    Linha 47| $mail->addAddress("seu.email@gmail.com");
+    	  Linha 47| $mail->addAddress("seu.email@gmail.com");
 
 ----------------------------------------------------------------------------------------------------------------------------------
 	Obs: O projeto por utilizar multiplas instancias do glider.js foi inicializar o objeto Glider para cada elemento no qual 
