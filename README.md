@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-	Olá, sou o Gustavo, este projeto é uma galeria de fotos e utiliza PHP e um pouquinho de JavaScript para realizar o 'submit' 
+Olá, sou o Gustavo, este projeto é uma galeria de fotos e utiliza PHP e um pouquinho de JavaScript para realizar o 'submit' 
 de um contato obtidos de um 'form' .html, a partir disso ele enviará a mensagem por e-mail (ao proprietário do site) e registrar em
 um banco de dados, também utilizei alguns framework's WEB como o Bootstrap, Lightbox e o Glider.js para o design e responsividade da
 página. 
