@@ -27,7 +27,7 @@ ativar a opção 'Acesso a app menos seguro' em sua conta google, para isso bast
 	Linha 47| $mail->addAddress("seu.email@gmail.com");
 
 ----------------------------------------------------------------------------------------------------------------------------------
-	Obs: O projeto por utilizar multiplas instancias do glider.js foi inicializar o objeto Glider para cada elemento no qual 
+Obs: O projeto por utilizar multiplas instancias do glider.js foi inicializar o objeto Glider para cada elemento no qual 
 deseja que ele seja executado. O autor do glide.js disponibizou o codigo abaixo resolvido na 'issue' #24:
  
 	https://github.com/NickPiscitelli/Glider.js/issues/24
