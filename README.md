@@ -22,9 +22,9 @@ ativar a opção 'Acesso a app menos seguro' em sua conta google, para isso bast
 
  Também é necessário substituir os campos abaixo com o seu email e senha de login (caso você deseje testar a funcionalidade): 
 
-	  Linha 39| $mail->Username = "seu.email@gmail.com";
-	  Linha 40| $mail->Password = "SuaSenha";
-    	  Linha 47| $mail->addAddress("seu.email@gmail.com");
+	Linha 39| $mail->Username = "seu.email@gmail.com";
+	Linha 40| $mail->Password = "SuaSenha";
+	Linha 47| $mail->addAddress("seu.email@gmail.com");
 
 ----------------------------------------------------------------------------------------------------------------------------------
 	Obs: O projeto por utilizar multiplas instancias do glider.js foi inicializar o objeto Glider para cada elemento no qual 
