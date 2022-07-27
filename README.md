@@ -32,8 +32,6 @@ deseja que ele seja executado. O autor do glide.js disponibizou o codigo abaixo 
  
 	https://github.com/NickPiscitelli/Glider.js/issues/24
 
-  Meus sinceros agradecimentos :)
-
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Se precisar entrar em contato comigo pode encontrar pelos meios de comunicação abaixo:
@@ -41,6 +39,4 @@ Se precisar entrar em contato comigo pode encontrar pelos meios de comunicação
 	  e-Mail: gustavo.dev97@gmail.com
 	  GitHub: github.com/Gustav-dev97
 
-	  Muito Obrigado! 
-
-
+	  Muito Obrigado!
